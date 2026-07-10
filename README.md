@@ -1,22 +1,14 @@
 <div align="center">
 
 ```
-                                                       
-                                                       
-___    __ ___                                          
-`MM    d' `MM                68b         68b           
- MM   d'   MM                Y89         Y89           
- MM  d'    MM  __      ___   ___ ___  __ ___ ___  __   
- MM d'     MM 6MMb   6MMMMb  `MM `MM 6MM `MM `MM 6MMb  
- MMd'      MMM9 `Mb 8M'  `Mb  MM  MM69 "  MM  MMM9 `Mb 
- MMYM.     MM'   MM     ,oMM  MM  MM'     MM  MM'   MM 
- MM YM.    MM    MM ,6MM9'MM  MM  MM      MM  MM    MM 
- MM  YM.   MM    MM MM'   MM  MM  MM      MM  MM    MM 
- MM   YM.  MM    MM MM.  ,MM  MM  MM      MM  MM    MM 
-_MM_   YM._MM_  _MM_`YMMM9'Yb_MM__MM_    _MM__MM_  _MM_
-                                                       
-                                                       
-                                                       
+ ___  __    ___  ___  ________  ___  ________  ___  ________      
+|\  \|\  \ |\  \|\  \|\   __  \|\  \|\   __  \|\  \|\   ___  \    
+\ \  \/  /|\ \  \\\  \ \  \|\  \ \  \ \  \|\  \ \  \ \  \\ \  \   
+ \ \   ___  \ \   __  \ \   __  \ \  \ \   _  _\ \  \ \  \\ \  \  
+  \ \  \\ \  \ \  \ \  \ \  \ \  \ \  \ \  \\  \\ \  \ \  \\ \  \ 
+   \ \__\\ \__\ \__\ \__\ \__\ \__\ \__\ \__\\ _\\ \__\ \__\\ \__\
+    \|__| \|__|\|__|\|__|\|__|\|__|\|__|\|__|\|__|\|__|\|__| \|__|
+                                                                  
 ```
 
 ### designer who codes. developer who designs.
